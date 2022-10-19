@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Div</string>
+
+    <string-array name="Divisas">
+        <item>Pesos</item>
+        <item>Dolares</item>
+        <item>Euros</item>
+    </string-array>
+
+</resources>
